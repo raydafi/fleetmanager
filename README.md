@@ -50,7 +50,7 @@ L'application nécessite une base de données locale pour fonctionner.
 Pour que l'application fonctionne, elle a besoin d'une structure précise (tables `users`, `vehicules`, `utilisations`).
 
 1.  Allez dans l'onglet **SQL** de votre base de données `fleetmanager`.
-2.  **Copiez et collez** les requêtes SQL situées dans le fichier `database.sql` (ou `script_sql.txt`) présent dans ce dépôt GitHub.
+2.  **Copiez et collez** les requêtes SQL situées dans le fichier fleetmanager/db.sql présent dans ce dépôt GitHub.
 3.  Exécutez la requête.
 
 > **Note :** Assurez-vous d'avoir au moins un utilisateur "admin" dans la table `users` pour pouvoir vous connecter la première fois. Si le script ne le crée pas, insérez-le manuellement avec un mot de passe connu.
