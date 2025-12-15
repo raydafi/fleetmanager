@@ -75,6 +75,8 @@ Vous n'avez pas besoin de compiler le code si vous voulez juste utiliser l'appli
 3.  Si vous êtes **Admin**, vous verrez tous les boutons (Ajout Utilisation, Gérer Véhicules, Gérer Utilisateurs).
 4.  Si vous êtes **User**, vous ne pourrez qu'ajouter des utilisations.
 
+   Vous retrouverez un tutoriel pour l'utilisation dans le fichier tuto.pdf
+
 ## 🏗️ Architecture du Code
 
 Le projet respecte le modèle **MVC (Modèle-Vue-Contrôleur)** pour une meilleure maintenance :
