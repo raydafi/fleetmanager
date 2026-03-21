@@ -23,8 +23,7 @@
 Pour faire fonctionner l'application sur votre poste, vous avez besoin de :
 
 1.  Un PC sous **Windows**.
-2.  Un serveur de base de données **MySQL** local. Nous recommandons l'utilisation de **WampServer**.
-3.  Le Framework .NET (généralement inclus dans Windows ou avec l'exécutable).
+2.  Le Framework .NET (généralement inclus dans Windows ou avec l'exécutable).
 
 ## 📥 Installation et Configuration
 
