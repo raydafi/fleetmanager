@@ -38,8 +38,8 @@ Pour faire fonctionner l'application sur votre poste, vous avez besoin de :
 
 L'installation a été simplifiée au maximum. Plus besoin de télécharger de fichier `.zip` ou de manipuler des scripts SQL.
 
-1.  **Téléchargez l'installateur** depuis notre espace cloud :
-    **[Lien de téléchargement (Google Drive) - *Insérer le lien ici*]**
+1.  **Téléchargez l'installateur** depuis mon espace cloud :
+    **[Lien de l'installateur](https://drive.google.com/file/d/1sbcGyxBRRlfSqcUJ1UBlZPZeZsXzr81_/view?usp=drive_link)**
 2.  **Exécutez l'installateur** (`.exe`) que vous venez de télécharger.
 3.  **Suivez simplement les étapes** affichées à l'écran par l'assistant d'installation.
 
