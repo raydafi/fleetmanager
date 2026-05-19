@@ -55,8 +55,6 @@ L'installation a été simplifiée au maximum. Plus besoin de télécharger de f
 3.  Si vous êtes **Admin**, vous aurez accès à toutes les interfaces (Ajout Utilisation, Ajout Entretien, Gestion Véhicules, Gestion Utilisateurs, Statistiques).
 4.  Si vous êtes **User**, vos accès seront restreints aux actions de base (comme l'ajout d'utilisations).
 
-    *Vous retrouverez un tutoriel détaillé pour l'utilisation dans le fichier `tuto.pdf` fourni avec le projet.*
-
 ## Architecture du Code
 
 Le projet respecte le modèle **MVC (Modèle-Vue-Contrôleur)** pour une meilleure maintenance :
